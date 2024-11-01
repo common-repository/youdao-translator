@@ -1,0 +1,58 @@
+=== Youdao Translator ===
+Contributors:lixiang
+Author: Li Xiang
+Donate link: http://www.leexiang.com/youdao-translator-plugin
+Tags: translator, multilanguage, automatic translator, youdao translations
+Requires at least: 2.0.2
+Tested up to: 3.*
+Stable tag: 1.0.0
+
+Automatically translates your blog in multilanguage by Youdao Translation Engine!
+
+== Description ==
+
+Youdao Translator automatically translates your blog only by moving your mouse in the following four languages pairs:
+	Chinese-English
+	Chinese-Japanese
+	Chinese-Korean
+	Chinese-France
+
+Main features:
+
+	*Ripe and popular translation engine: Youdao Translation Engine
+	*No database modifications: Youdao Translator is not intrusive. It doesn't create or alter any table on your database, this feature permits to obtain better performances.
+	*Be expert in Chinese: It can help you to reach a lot of new users and consequently to strongly increase your popularity, especially your most blogs are Chinese, if you derive some benefits and if you want to support the development, please consider to support me with a donation.
+
+For the latest information and changelog visit the website
+
+http://www.leexiang.com/youdao-translator-plugin
+
+== Installation ==
+
+1. Upload the folder "youdao-translator" to the "wp-content/plugins" directory.
+2. Activate the plugin through the 'Plugins' menu in WordPress. 
+3. From the main menu choose "Options->Youdao Translator" and set your Youdao Translation API site and key, then select "Update Options".
+
+== Changelog ==
+
+= 1.0.0 =
+* Initial release
+
+== Upgrade Notice ==
+
+= 1.0.0 =
+* The first stable version
+
+== Screenshots ==
+
+1. The screeshot of the plugin
+
+== Frequently Asked Questions ==
+
+= How to apply the Youdao Translation API? =
+
+You can visit the website http://fanyi.youdao.com/fanyiapi to apply a key according to your need.
+
+= How to translate your blog when you reading? =
+
+You can choose some words or several sentences using your mouse, then you can see the translation of what you just choose. But notice that you'd better not choose the words whose number is beyond 200.
